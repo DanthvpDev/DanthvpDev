@@ -1,5 +1,5 @@
 # Hello there, I'm Daniel 👋👨🏾‍💻
-[!Banner](danth_dev_banner.png)
+![Banner](danth_dev_banner.png)
 
 ## About Me
 I'm a FullStack development student 🤓.  
@@ -8,7 +8,7 @@ Here you could find some of my homeworks and some projects I've done to pass the
 
 ## Technologies 
 Here are some of the technologies I use:  
-[!C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) [!C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) [!html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 <!--
 **DanthvpDev/DanthvpDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
