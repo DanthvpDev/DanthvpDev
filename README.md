@@ -2,7 +2,7 @@
 ![Banner](danth_dev_banner.png)
 
 ## About Me
-I'm a FullStack development student 🤓.  
+I'm a FullStack costa rican 🇨🇷 development student 🤓.  
 I've learned to develop web, desktop and mobile apps using various languages 👨🏾‍💻.  
 Here you could find some of my homeworks and some projects I've done to pass the Specialized Technitian Software Apps Development course ✅.  
 
