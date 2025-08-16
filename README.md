@@ -47,7 +47,7 @@ Right know I'm learning:
 
 ## Languages  
 - Spanish 🇨🇷
-- English 🇬🇧
+- English 🏴󠁧󠁢󠁥󠁮󠁧󠁿
 
 <!--
 **DanthvpDev/DanthvpDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
