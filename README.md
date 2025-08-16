@@ -43,11 +43,11 @@ Here are some of the technologies I use:
 ## Learning  
 Right know I'm learning:  
 - ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-- Chinese 🇨🇳
+- Chinese :🇨🇳
 
 ## Languages  
-- Spanish 🇨🇷
-- English 🇬🇧
+- Spanish :🇨🇷
+- English :🇬🇧
 
 <!--
 **DanthvpDev/DanthvpDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
